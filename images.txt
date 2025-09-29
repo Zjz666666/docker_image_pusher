@@ -1,1 +1,1 @@
-gotechnies/alpine-ssh:helm-chart latest
+gotechnies/alpine-ssh:helm-chart:latest

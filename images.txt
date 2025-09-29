@@ -1,1 +1,1 @@
-woahbase/alpine-ssh
+alpine-ssh:arm64

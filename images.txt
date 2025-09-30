@@ -1,2 +1,1 @@
-mysql:9.4-oracle
-nginx
+arm64v8/mysql:9.4.0-oracle
